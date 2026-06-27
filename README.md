@@ -22,7 +22,7 @@ A desktop app that searches for country info and automatically fetches live weat
 
 1\. Install dependencies: `pip install requests beautifulsoup4`
 
-2\. Run: `python weather\_country\_app.py`
+2\. Run: `python weather_country_app.py`
 
 
 
