@@ -9,5 +9,5 @@ print(df['temperature'].mean())
 print(df.sort_values('temperature', ascending=False))
 print(df['country'].value_counts())
 
-df.plot(x='country', y=['temperature', 'humidity', ''], kind='bar')
+df.plot(x='country', y=['temperature', 'humidity', 'wind_speed'], kind='bar')
 plt.show()
